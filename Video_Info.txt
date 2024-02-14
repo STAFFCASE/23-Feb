@@ -1,6 +1,6 @@
 In this video, we solve MCQ In C-language based on String pointer.  
 
-
+saurabh
 Step-1
 
 
